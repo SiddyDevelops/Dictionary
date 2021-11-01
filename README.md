@@ -4,7 +4,7 @@
 
 - An android smartphone with AndroidVersion >= 5.0 (Lollipop) will be required to run the app.
 - Make a directory in your computer and clone the repository OR directly download the APK file.
-- Transfer the APK file named 'Siddy's Dictionary.apk' into you mobile phone and open it.
+- Transfer the APK file named *'Siddy's Dictionary.apk'* into you mobile phone and open it.
 - From the security setting allow the external files to make changes and install the App.
 - Run the App.
 ---
